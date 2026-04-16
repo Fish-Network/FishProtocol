@@ -16,6 +16,14 @@ A Fish Pool is the basic, minimal capital pooling unit designed to support a sin
 
 Fish Network introduces a new standard to track investor reputation and track record on-chain. This is a delibrate attempt to codify an abstract, non-financial metric. Even though investor trust is a simple concept in theory, and well-understood by the market, there is no agreed-upon mechanism today to evaluate, reward, track, or record investor trust in a distributed and determinstic way. Fish Protocol attempts to standardize the approach to investor reputation, so that reputation can scale with capital and vice versa.
 
+# What are Fish Points?
+
+Fish Points are the scorekeeping ledger for an evidence driven attestation network, where off-chain documents and records are verified and subsequently etched on-chain. 
+
+# What are not Fish Points?
+
+Fish points are not a narrative-driven, gamified and social all-in-one investor reputation score.
+
 # Summary
 
 Fish Network has developed the basic infrastructure needed to enable investors to pool capital with confidence. No overhead, no middle-men taking fees, no custodians. We believe this infrastructure should be available as a public good to everyone, and can be used for any use case. While investor trust is technically a non-financial asset, we believe it has very real, financial implications in the long-run. Fish Pools, together with Fish Points, enable the foundation for reputation-based capital to scale.
