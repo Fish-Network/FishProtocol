@@ -1,4 +1,4 @@
-# Open Source Protocol for Reputation-based Capital Pooling
+# Protocol for Reputation-based Capital Pooling
 
 Community-driven investing faltered not because blockchain failed to deliver on its trust-less nature. It faltered because people didn't trust each other off-chain.
 
