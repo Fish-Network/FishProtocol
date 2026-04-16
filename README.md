@@ -14,7 +14,7 @@ A Fish Pool is the basic, minimal capital pooling smart contract unit designed t
 
 # Introducing Fish Points
 
-Fish Network introduces a new standard to track investor reputation and track record on-chain. This is a delibrate attempt to codify an abstract, non-financial metric. Even though investor trust is a simple concept in theory, and well-understood by the market, there is no agreed-upon mechanism today to evaluate, reward, track, or record investor trust in a distributed and determinstic way. Fish Protocol attempts to standardize the approach to investor reputation, so that reputation can scale with capital and vice versa.
+Fish Network introduces a new standard to track investor reputation and track record on-chain. This is a delibrate attempt to codify and standardize an abstract, non-financial metric. Even though investor trust is a simple concept in theory, and well-understood by the market, there is no agreed-upon mechanism today to evaluate, reward, track, or record investor trust in a distributed and determinstic way. Fish Protocol attempts to standardize the approach to investor reputation, so that reputation can scale with capital and vice versa.
 
 ### What are Fish Points?
 
