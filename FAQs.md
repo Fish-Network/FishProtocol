@@ -2,7 +2,7 @@
 
 ## **What is an example use case of Fish Protocol?**
 
-A example social use case could be pooling capital to collectively split the cost to cover a friend's funeral. We particularly expect to see social and non-profit capital pooling use cases.
+A example social use case could be pooling capital to collectively split the cost to cover a friend's funeral. We expect to see social and non-profit capital pooling use cases.
 
 ## **What are the fees to use Fish Protocol?**
 
