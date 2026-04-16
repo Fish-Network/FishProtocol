@@ -26,7 +26,7 @@ Fish points are not a narrative-driven, gamified and social all-in-one investor 
 
 # Summary
 
-Fish Network has developed the basic infrastructure needed to enable investors to pool capital with confidence. No overhead, no middle-men taking fees, no custodians. We believe this infrastructure should be available as a public good to everyone, and can be used for any use case. While investor trust is technically a non-financial asset, we believe it has very real, financial implications in the long-run. Fish Pools, together with Fish Points, enable the foundation for reputation-based capital to scale.
+Fish Network has developed the basic infrastructure needed to enable investors to pool capital with confidence. No overhead, no middle-men taking fees, no custodians. We believe this infrastructure should be available as a public good to everyone, and can be used for any use case. While investor trust is technically a non-financial asset, we believe it has very real, financial implications in the long-run. Fish Pools, together with Fish Points, enable the foundation for reputation-based capital to be deployed into traditional private markets at scale.
 
 # Release Timeline
 
