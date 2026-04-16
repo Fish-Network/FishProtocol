@@ -1,7 +1,3 @@
-# FishProtocol
-
-Open Source Protocol for Capital Pooling
-
 # Open Source Protocol for Reputation-based Capital Pooling
 
 Community-driven investing faltered not because blockchain failed to deliver on its trust-less nature. It faltered because people didn't trust each other off-chain.
@@ -12,11 +8,11 @@ Because even though the infrastructure was scalable, investor trust was not acco
 
 This led us to believe there was a missing primitive - until now.
 
-# Introducing FishPools
+# Introducing Fish Pools
 
 A Fish Pool is the basic, minimal capital pooling unit designed to support a single off-chain asset. This enables private investor groups to leverage the primitive for their own deals, while maintaining 100% control. It also enables smaller individual investors to get exposure to asset classes they would otherwise be locked out of. Furthermore, the open source version of a Fish Pool provides the lowest cost infrastructure for people to pool and distribute capital together for any use case outside financial services.
 
-# Introducing FishPoints
+# Introducing Fish Points
 
 Fish Network introduces a new standard to track investor reputation and track record on-chain. This is a delibrate attempt to codify an abstract, non-financial metric. Even though investor trust is a simple concept in theory, and well-understood by the market, there is no agreed-upon mechanism today to evaluate, reward, track, or record investor trust in a distributed and determinstic way. Fish Protocol attempts to standardize the approach to investor reputation, so that reputation can scale with capital and vice versa.
 
