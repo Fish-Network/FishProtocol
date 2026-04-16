@@ -1,6 +1,6 @@
 # Protocol for Reputation-based Capital Pooling
 
-Community-driven investing faltered not because blockchain failed to deliver on its trust-less nature. It faltered because people didn't trust each other off-chain.
+Community-driven investing faltered not because blockchain failed to deliver on its trust-less nature. It faltered because there was missing trust infrastructure amongst the humans using the blockchain.
 
 Dating back to 2021, investor groups used NFTs to track membership, and ERC-20 to track financial units. It was a seemingly complete solution at the time; infrastructure was cheap to use, and many Venture DAO experiments proliferated with small amounts of capital. The average size of these pooled investment clubs was ~$1000 total. Why?
 
