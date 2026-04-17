@@ -4,7 +4,7 @@ Community-driven investing faltered not because blockchain failed to deliver on 
 
 Dating back to 2021, investor groups used NFTs to track membership, and ERC-20 to track financial units. It was a seemingly complete solution at the time; infrastructure was cheap to use, and many Venture DAO experiments proliferated with small amounts of capital. The average size of these pooled investment clubs was ~$1000 total. Why?
 
-Because even though the infrastructure was scalable, investor trust was not accounted for, and therefore capital did not scale with the system itself. Outside of crypto, private markets scale because investors trust the system. They trust lawyers, and well-understood, widely adopted financial frameworks that most people simply accept via herd mentality. Even though investor trust is technically a non-financial asset attributable to both individuals and institutions, we believe it impacts just about every single private markets transaction.
+Because even though the infrastructure was scalable, investor trust was not accounted for, and therefore capital did not scale with the system itself. Outside of crypto, private markets scale because investors trust the system. They trust lawyers, and well-understood, widely adopted financial frameworks that most people simply accept via herd mentality. Even though investor trust is technically a non-financial asset attributable to both individuals and institutions, we believe it impacts just about every single private market transaction.
 
 This led us to believe there was a missing primitive - until now.
 
