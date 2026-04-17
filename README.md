@@ -22,7 +22,7 @@ Fish Points are the scorekeeping ledger for an evidence driven attestation netwo
 
 ### What are not Fish Points?
 
-Fish points are not a narrative-driven, gamified and social all-in-one investor reputation score.
+Fish points are not a narrative-driven, gamified or social investor reputation score.
 
 # Summary
 
