@@ -18,7 +18,7 @@ Fish Network introduces a new standard to track investor reputation and track re
 
 ### What are Fish Points?
 
-Fish Points are the scorekeeping ledger for an evidence driven attestation network, where off-chain documents and records are verified and subsequently etched on-chain.
+Fish Points are the scorekeeping ledger for an evidence driven attestation network, where off-chain documents and records are verified and subsequently etched on-chain to represent investor reputation and track-record.
 
 ### What are not Fish Points?
 
