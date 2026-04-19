@@ -262,10 +262,10 @@ Fish Network enables:
 
 ## 🔗 Related Docs
 
-* Fish Pools — execution layer
-* Fish Points (Unredeemable) — reputation system
-* Examples — scoring walkthroughs
-* Developer Guide — APIs and integrations
+* Fish Pools — execution layer(COMING SOON)
+* Fish Points (Unredeemable) — reputation system(COMING SOON)
+* Examples — scoring walkthroughs(COMING SOON)
+* Developer Guide — APIs and integrations(COMING SOON)
 
 ---
 
