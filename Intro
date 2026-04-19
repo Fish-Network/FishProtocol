@@ -1,5 +1,7 @@
 
 
+---
+
 # 🐟 Fish Network
 
 ## Fish Pools + Fish Points
@@ -12,8 +14,8 @@ Fish Network is a **reputation-based capital coordination system**.
 
 It combines:
 
-* **Fish Pools** → structured environments for capital formation and execution
-* **Fish Points** → a non-transferable reputation system
+* **Fish Pools** — structured environments for capital formation and execution
+* **Fish Points** — a non-transferable reputation system
 
 Together, they create a system where:
 
@@ -23,7 +25,7 @@ Together, they create a system where:
 
 ## 🧱 System Architecture
 
-```text id="k2w6o4"
+```
 Fish Pools (execution layer)
         ↓
 User Actions (capital, voting, outcomes)
@@ -53,7 +55,7 @@ Each Pool is a **structured, lifecycle-driven environment**.
 
 ### Pool Lifecycle
 
-```text id="o7q4bn"
+```
 draft → open → active → closed → settled → distributed
 ```
 
@@ -75,7 +77,7 @@ draft → open → active → closed → settled → distributed
 
 * contributes capital
 * participates in voting
-* earns reputation
+* builds reputation
 
 ---
 
@@ -105,7 +107,7 @@ They are:
 
 ### Core Model
 
-```text id="b7y8eq"
+```
 FP(total) = FP(capital) + FP(participation)
 ```
 
@@ -115,7 +117,7 @@ FP(total) = FP(capital) + FP(participation)
 
 Reputation from capital commitment.
 
-* based on deposit size
+* increases with deposit size
 * increases with time held
 * stops at withdrawal or settlement
 
@@ -140,37 +142,37 @@ Includes:
 * Successful Close → +5
 * First Distribution → +25
 
-Largest rewards are tied to **real outcomes**.
+The largest rewards are tied to **real outcomes**.
 
 ---
 
 ## 🔁 How They Work Together
 
-Fish Pools generate the activity.
-Fish Points measure the contribution.
+Fish Pools generate activity.
+Fish Points measure contribution.
 
 ---
 
-### Flow
+### System Flow
 
 1. Organizer creates a Pool
-2. Fish join and deposit capital
-3. Fish participate in voting
-4. Pool reaches outcome (settled + distributed)
+2. Participants join and deposit capital
+3. Participants vote on proposals
+4. Pool reaches outcome (settled → distributed)
 5. System records events
 6. Fish Points update reputation
 
 ---
 
-### Conceptual Loop
+### Feedback Loop
 
-```text id="j1kzqs"
+```
 Action → Event → Score → Reputation → Future Coordination
 ```
 
 ---
 
-## 🧠 System Principles
+## 🧠 Design Principles
 
 ### Outcome-Driven
 
@@ -184,9 +186,9 @@ Both financial commitment and behavior matter.
 
 Early, independent decisions carry more weight.
 
-### Transparent + Auditable
+### Transparent & Auditable
 
-All reputation is derived from verifiable events.
+All reputation is derived from verifiable system events.
 
 ### Simple by Design
 
@@ -221,13 +223,13 @@ This enables:
 
 To maintain integrity:
 
-* Organizer cooldowns
+* organizer cooldowns
 * limits on concurrent Pools
 * wallet verification
 * join-before-vote requirements
 * only final votes count
 
-No penalties in v1—this is a **positive reputation system**.
+No penalties in v1 — this is a **positive reputation system**.
 
 ---
 
@@ -253,16 +255,14 @@ Fish Network enables:
 
 ## 🧩 Mental Model
 
-Think of the system as:
-
-* **Fish Pools** = where things happen
+* **Fish Pools** = where coordination happens
 * **Fish Points** = how contribution is measured
 
 ---
 
 ## 🔗 Related Docs
 
-* Fish Pools — execution layer details
+* Fish Pools — execution layer
 * Fish Points (Unredeemable) — reputation system
 * Examples — scoring walkthroughs
 * Developer Guide — APIs and integrations
@@ -281,4 +281,5 @@ into a system where:
 > capital, participation, and outcomes are aligned through reputation.
 
 ---
+
 
