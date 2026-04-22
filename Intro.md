@@ -2,7 +2,7 @@
 
 ---
 
-# 🐟 Fish Network
+# 🐟 Fish Network's Blockchain Protocol
 
 ## Fish Pools + Fish Points
 
