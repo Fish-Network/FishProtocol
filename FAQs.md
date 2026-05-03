@@ -29,3 +29,12 @@ Advanced distribution logic can be programmed directly into the config file if n
 ## **How are withdrawals processed on fish protocol?**
 
 Users must claim their profits or distributions directly and will likely be notified by the Organizer when available.
+
+## **Whats the difference between Points and Rewards?**
+
+Rewards can be only be redeemed for discounts on Fish School purchases currently, and for marketing referrals in the future.
+
+Fish Points are an on-chain track record and investor reputation system. They have no dollar value and cannot be transferred or redeemed.
+
+Poinsts <> Rewards
+
