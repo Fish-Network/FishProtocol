@@ -36,5 +36,5 @@ Rewards can be only be redeemed for discounts on Fish School purchases currently
 
 Fish Points are an on-chain track record and investor reputation system. They have no dollar value and cannot be transferred or redeemed.
 
-Poinsts $x \neq y$ Rewards
+        $Points \neq Rewards$
 
