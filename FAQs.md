@@ -1,5 +1,24 @@
 # *Frequently Asked Questions* 
 
+
+## **How is this possible?**
+
+Through the simple financial primitive of a Fish Pool.
+
+We use Fish Pools as the standardized core component, where additional functionality and compliance logic is layered on top by Fish Network and other businesses. This way we maintain the efficiency and simplicity of the capital pooling system for a single asset, which sets the foundation for more complex investment vehicles to be built using one or many individual Fish Pools.
+
+## **What does this enable?**
+
+By coupling Fish Pools with existing techniques found in both traditional and crypto derivatives and prediction markets, we unlock a new structure to expand liquidity in private markets. This structure enables anyone who has an opinion, to also have an investment position, without ever owning the underlying assets. This enables people to trade on outcomes tied to the investment performance in private markets.
+
+## **Why does this matter?**
+
+Derivatives on private markets do not currently exist. This unlocks future liquidity through synthetic exposure to the underlying private market assets.
+
+## **What about investor privacy and trust concerns?**
+
+Markets are transparent, but all investor information is private by default. All capital is routed through stablecoins and smart contracts for transparency and auditability. 
+
 ## **What is an example use case of Fish Protocol?**
 
 An example social use case could be pooling capital to collectively split the cost to cover a friend's funeral. We expect to see social and non-profit capital pooling use cases.
