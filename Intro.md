@@ -10,7 +10,7 @@
 
 ## Overview
 
-Fish Network is a **reputation-based capital coordination system**.
+Fish Network is a **reputation-based capital coordination system**. Fish Protocol enables financial institutions, businesses and retail investor communities to build collaborative investment vehicles. By simplifying the capital pooling process we help investors transcend traditional regulatory and geographic boundaries and invest together with confidence. The framework enables fast formation of investment vehicles coupled with composable private market building blocks, that together represent an investment contract + monetary asset that includes economic rules and distribution logic.
 
 It combines:
 
